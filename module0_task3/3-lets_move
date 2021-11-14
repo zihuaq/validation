@@ -1,1 +1,4 @@
-mv ./[A-Z]* /tmp/u
+export LC_ALL=C
+rm -R /tmp/u
+mkdir /tmp/u
+mv [A-Z]* /tmp/u
