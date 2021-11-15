@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Awesome Inc.'
+theme = "ananke"
+publishDir = "dist"
+[build.environment]
+  HUGO_VERSION = "0.60.1"
